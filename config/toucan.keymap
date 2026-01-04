@@ -225,7 +225,7 @@
 
         bluetooth {
             bindings = <&mo 3>;
-            key-positions = <44 45 24 35>;
+            key-positions = <24 35>;
             layers = <0>;
         };
 
